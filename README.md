@@ -5,6 +5,40 @@
 2. Create Vector-enabled collection with Mistral Embeddings
 3. Leave the collection empty
 
+## Permit.io instructions:
+
+1. Resources with resource roles
+
+    ![image](./resources.png)
+
+2. Resource relations
+
+    ![image](./resource-relations.png)
+    
+    ![image](./resource-relations-2.png)
+
+    ![image](./resource-relations-3.png)
+
+3. Role derivation relations
+
+    ![image](./derivation.png)
+
+    ![image](./derivation-2.png)
+
+    ![image](./derivation-3.png)
+
+4. Policy
+
+    ![image](./policy.png)
+
+5. Users
+
+    ![image](./users.png)
+
+6. Instances
+
+    ![image](./instances.png)
+
 ## LangFlow instructions:
 1. Create a new blank project
 2. Create a confidential Global Variable in Settings for Permit Key
