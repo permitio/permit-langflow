@@ -1,4 +1,4 @@
-# permit-langflow-filter
+# permit-langflow
 
 ## AstraDB instructions:
 1. Create a database
